@@ -1,3 +1,3 @@
 # varsha.sm
-My first Git Repository\n
+My first Git Repository
 Author - Varsha 
